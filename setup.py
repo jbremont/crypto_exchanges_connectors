@@ -9,7 +9,7 @@ setup(
     include_package_data=True,
     packages=find_packages(),
     install_requires=[
-        'Flask==0.12.2',
+        'Flask==1.0',
         'pandas==0.20.1',
         'requests==2.18.4',
         'aj_sns==0.0.56',
