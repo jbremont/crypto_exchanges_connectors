@@ -11,7 +11,7 @@ setup(
     install_requires=[
         'Flask==0.12.2',
         'pandas==0.20.1',
-        'requests==2.18.4',
+        'requests==2.20.0',
         'aj_sns==0.0.56',
         'networkx==2.1',
         'ethereum==2.3.1',
