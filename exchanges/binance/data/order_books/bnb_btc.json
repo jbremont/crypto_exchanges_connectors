@@ -1,0 +1,2873 @@
+[
+  {
+    "depth": 1,
+    "price": "0.00152310",
+    "quantity": "4.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 2,
+    "price": "0.00152460",
+    "quantity": "46.56000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 3,
+    "price": "0.00152480",
+    "quantity": "40.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 4,
+    "price": "0.00152500",
+    "quantity": "3.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 5,
+    "price": "0.00152540",
+    "quantity": "2.64000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 6,
+    "price": "0.00152570",
+    "quantity": "9.39000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 7,
+    "price": "0.00152590",
+    "quantity": "15.40000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 8,
+    "price": "0.00152600",
+    "quantity": "48.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 9,
+    "price": "0.00152610",
+    "quantity": "41.01000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 10,
+    "price": "0.00152620",
+    "quantity": "72.69000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 11,
+    "price": "0.00152630",
+    "quantity": "11.40000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 12,
+    "price": "0.00152650",
+    "quantity": "16.80000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 13,
+    "price": "0.00152660",
+    "quantity": "47.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 14,
+    "price": "0.00152670",
+    "quantity": "52.10000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 15,
+    "price": "0.00152680",
+    "quantity": "16.30000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 16,
+    "price": "0.00152690",
+    "quantity": "1.08000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 17,
+    "price": "0.00152700",
+    "quantity": "0.69000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 18,
+    "price": "0.00152710",
+    "quantity": "52.50000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 19,
+    "price": "0.00152720",
+    "quantity": "12.20000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 20,
+    "price": "0.00152730",
+    "quantity": "15.90000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 21,
+    "price": "0.00152740",
+    "quantity": "43.60000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 22,
+    "price": "0.00152750",
+    "quantity": "14.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 23,
+    "price": "0.00152760",
+    "quantity": "13.90000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 24,
+    "price": "0.00152810",
+    "quantity": "12.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 25,
+    "price": "0.00152820",
+    "quantity": "14.70000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 26,
+    "price": "0.00152830",
+    "quantity": "71.27000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 27,
+    "price": "0.00152840",
+    "quantity": "14.10000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 28,
+    "price": "0.00152850",
+    "quantity": "16.80000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 29,
+    "price": "0.00152860",
+    "quantity": "13.20000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 30,
+    "price": "0.00152880",
+    "quantity": "11.90000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 31,
+    "price": "0.00152910",
+    "quantity": "343.54000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 32,
+    "price": "0.00152920",
+    "quantity": "32.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 33,
+    "price": "0.00152940",
+    "quantity": "2.21000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 34,
+    "price": "0.00152970",
+    "quantity": "444.27000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 35,
+    "price": "0.00153000",
+    "quantity": "12.90000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 36,
+    "price": "0.00153010",
+    "quantity": "2.38000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 37,
+    "price": "0.00153080",
+    "quantity": "10.70000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 38,
+    "price": "0.00153090",
+    "quantity": "14.30000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 39,
+    "price": "0.00153120",
+    "quantity": "0.69000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 40,
+    "price": "0.00153140",
+    "quantity": "28.34000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 41,
+    "price": "0.00153150",
+    "quantity": "1.40000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 42,
+    "price": "0.00153160",
+    "quantity": "30.50000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 43,
+    "price": "0.00153200",
+    "quantity": "5.32000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 44,
+    "price": "0.00153220",
+    "quantity": "37.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 45,
+    "price": "0.00153230",
+    "quantity": "202.42000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 46,
+    "price": "0.00153250",
+    "quantity": "3.27000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 47,
+    "price": "0.00153280",
+    "quantity": "1.40000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 48,
+    "price": "0.00153290",
+    "quantity": "62.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 49,
+    "price": "0.00153390",
+    "quantity": "14.97000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 50,
+    "price": "0.00153400",
+    "quantity": "90.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 51,
+    "price": "0.00153440",
+    "quantity": "37.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 52,
+    "price": "0.00153460",
+    "quantity": "2.64000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 53,
+    "price": "0.00153470",
+    "quantity": "10.70000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 54,
+    "price": "0.00153490",
+    "quantity": "1.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 55,
+    "price": "0.00153530",
+    "quantity": "2.67000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 56,
+    "price": "0.00153550",
+    "quantity": "1.73000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 57,
+    "price": "0.00153580",
+    "quantity": "0.90000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 58,
+    "price": "0.00153590",
+    "quantity": "3.66000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 59,
+    "price": "0.00153600",
+    "quantity": "33.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 60,
+    "price": "0.00153610",
+    "quantity": "32.55000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 61,
+    "price": "0.00153620",
+    "quantity": "1.31000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 62,
+    "price": "0.00153670",
+    "quantity": "6.57000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 63,
+    "price": "0.00153790",
+    "quantity": "4.65000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 64,
+    "price": "0.00153800",
+    "quantity": "39.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 65,
+    "price": "0.00153810",
+    "quantity": "0.70000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 66,
+    "price": "0.00153830",
+    "quantity": "2.94000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 67,
+    "price": "0.00153840",
+    "quantity": "312.22000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 68,
+    "price": "0.00153920",
+    "quantity": "2.10000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 69,
+    "price": "0.00153950",
+    "quantity": "36.70000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 70,
+    "price": "0.00153970",
+    "quantity": "2.94000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 71,
+    "price": "0.00153980",
+    "quantity": "37.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 72,
+    "price": "0.00153990",
+    "quantity": "2.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 73,
+    "price": "0.00154000",
+    "quantity": "144.38000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 74,
+    "price": "0.00154020",
+    "quantity": "2.06000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 75,
+    "price": "0.00154030",
+    "quantity": "3.76000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 76,
+    "price": "0.00154040",
+    "quantity": "2.61000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 77,
+    "price": "0.00154060",
+    "quantity": "0.78000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 78,
+    "price": "0.00154080",
+    "quantity": "77.26000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 79,
+    "price": "0.00154100",
+    "quantity": "77.15000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 80,
+    "price": "0.00154110",
+    "quantity": "0.66000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 81,
+    "price": "0.00154150",
+    "quantity": "45.23000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 82,
+    "price": "0.00154170",
+    "quantity": "2.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 83,
+    "price": "0.00154200",
+    "quantity": "107.66000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 84,
+    "price": "0.00154240",
+    "quantity": "0.96000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 85,
+    "price": "0.00154250",
+    "quantity": "35.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 86,
+    "price": "0.00154260",
+    "quantity": "4.07000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 87,
+    "price": "0.00154290",
+    "quantity": "2.06000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 88,
+    "price": "0.00154300",
+    "quantity": "139.16000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 89,
+    "price": "0.00154310",
+    "quantity": "93.99000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 90,
+    "price": "0.00154320",
+    "quantity": "10.73000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 91,
+    "price": "0.00154360",
+    "quantity": "6.11000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 92,
+    "price": "0.00154400",
+    "quantity": "8.72000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 93,
+    "price": "0.00154410",
+    "quantity": "1075.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 94,
+    "price": "0.00154420",
+    "quantity": "9.49000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 95,
+    "price": "0.00154430",
+    "quantity": "4.17000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 96,
+    "price": "0.00154440",
+    "quantity": "99.72000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 97,
+    "price": "0.00154470",
+    "quantity": "3.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 98,
+    "price": "0.00154480",
+    "quantity": "37.56000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 99,
+    "price": "0.00154490",
+    "quantity": "2.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 100,
+    "price": "0.00154500",
+    "quantity": "262.93000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 101,
+    "price": "0.00154510",
+    "quantity": "1.55000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 102,
+    "price": "0.00154550",
+    "quantity": "82.44000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 103,
+    "price": "0.00154700",
+    "quantity": "2.50000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 104,
+    "price": "0.00154870",
+    "quantity": "2627.92000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 105,
+    "price": "0.00154990",
+    "quantity": "251.60000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 106,
+    "price": "0.00155100",
+    "quantity": "31.59000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 107,
+    "price": "0.00155250",
+    "quantity": "5.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 108,
+    "price": "0.00155300",
+    "quantity": "1.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 109,
+    "price": "0.00155490",
+    "quantity": "36.07000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 110,
+    "price": "0.00155990",
+    "quantity": "2.65000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 111,
+    "price": "0.00156380",
+    "quantity": "1.03000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 112,
+    "price": "0.00156490",
+    "quantity": "5.28000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 113,
+    "price": "0.00156990",
+    "quantity": "20.34000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 114,
+    "price": "0.00157490",
+    "quantity": "2.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 115,
+    "price": "0.00157990",
+    "quantity": "38.15000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 116,
+    "price": "0.00158200",
+    "quantity": "6.86000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 117,
+    "price": "0.00158430",
+    "quantity": "6.28000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 118,
+    "price": "0.00158490",
+    "quantity": "21.68000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 119,
+    "price": "0.00158990",
+    "quantity": "248.63000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 120,
+    "price": "0.00159070",
+    "quantity": "6.56000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 121,
+    "price": "0.00159490",
+    "quantity": "1.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 122,
+    "price": "0.00159990",
+    "quantity": "771.54000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 123,
+    "price": "0.00160000",
+    "quantity": "9613.47000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 124,
+    "price": "0.00160600",
+    "quantity": "26.08000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 125,
+    "price": "0.00161800",
+    "quantity": "396.04000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 126,
+    "price": "0.00167080",
+    "quantity": "50.00000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 127,
+    "price": "0.00197500",
+    "quantity": "942.57000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 128,
+    "price": "0.00250010",
+    "quantity": "0.65000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 129,
+    "price": "0.00300000",
+    "quantity": "29205.16000000",
+    "side": "sell",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 1,
+    "price": "0.00152230",
+    "quantity": "29.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 2,
+    "price": "0.00152220",
+    "quantity": "0.01000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 3,
+    "price": "0.00152200",
+    "quantity": "30.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 4,
+    "price": "0.00152190",
+    "quantity": "63.07000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 5,
+    "price": "0.00152170",
+    "quantity": "33.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 6,
+    "price": "0.00152160",
+    "quantity": "32.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 7,
+    "price": "0.00152150",
+    "quantity": "14.04000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 8,
+    "price": "0.00152140",
+    "quantity": "30.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 9,
+    "price": "0.00152130",
+    "quantity": "7.85000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 10,
+    "price": "0.00152120",
+    "quantity": "14.30000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 11,
+    "price": "0.00152090",
+    "quantity": "14.30000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 12,
+    "price": "0.00152070",
+    "quantity": "30.50000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 13,
+    "price": "0.00152040",
+    "quantity": "18.04000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 14,
+    "price": "0.00152030",
+    "quantity": "356.46000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 15,
+    "price": "0.00152020",
+    "quantity": "1.38000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 16,
+    "price": "0.00152010",
+    "quantity": "15.90000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 17,
+    "price": "0.00152000",
+    "quantity": "14.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 18,
+    "price": "0.00151990",
+    "quantity": "54.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 19,
+    "price": "0.00151980",
+    "quantity": "46.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 20,
+    "price": "0.00151970",
+    "quantity": "174.42000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 21,
+    "price": "0.00151960",
+    "quantity": "157.75000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 22,
+    "price": "0.00151950",
+    "quantity": "13.90000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 23,
+    "price": "0.00151940",
+    "quantity": "382.86000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 24,
+    "price": "0.00151930",
+    "quantity": "0.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 25,
+    "price": "0.00151900",
+    "quantity": "154.16000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 26,
+    "price": "0.00151880",
+    "quantity": "21.40000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 27,
+    "price": "0.00151870",
+    "quantity": "17.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 28,
+    "price": "0.00151850",
+    "quantity": "41.08000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 29,
+    "price": "0.00151830",
+    "quantity": "292.90000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 30,
+    "price": "0.00151820",
+    "quantity": "12.20000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 31,
+    "price": "0.00151800",
+    "quantity": "3.84000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 32,
+    "price": "0.00151790",
+    "quantity": "479.20000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 33,
+    "price": "0.00151760",
+    "quantity": "40.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 34,
+    "price": "0.00151750",
+    "quantity": "11.87000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 35,
+    "price": "0.00151730",
+    "quantity": "32.80000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 36,
+    "price": "0.00151720",
+    "quantity": "16.11000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 37,
+    "price": "0.00151710",
+    "quantity": "134.48000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 38,
+    "price": "0.00151700",
+    "quantity": "70.86000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 39,
+    "price": "0.00151680",
+    "quantity": "368.13000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 40,
+    "price": "0.00151660",
+    "quantity": "1029.66000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 41,
+    "price": "0.00151560",
+    "quantity": "13.30000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 42,
+    "price": "0.00151550",
+    "quantity": "28.94000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 43,
+    "price": "0.00151530",
+    "quantity": "4.36000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 44,
+    "price": "0.00151520",
+    "quantity": "0.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 45,
+    "price": "0.00151510",
+    "quantity": "0.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 46,
+    "price": "0.00151500",
+    "quantity": "59.29000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 47,
+    "price": "0.00151490",
+    "quantity": "33.17000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 48,
+    "price": "0.00151480",
+    "quantity": "20.68000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 49,
+    "price": "0.00151470",
+    "quantity": "45.49000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 50,
+    "price": "0.00151460",
+    "quantity": "0.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 51,
+    "price": "0.00151450",
+    "quantity": "170.72000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 52,
+    "price": "0.00151440",
+    "quantity": "1.40000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 53,
+    "price": "0.00151430",
+    "quantity": "0.80000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 54,
+    "price": "0.00151420",
+    "quantity": "4.27000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 55,
+    "price": "0.00151410",
+    "quantity": "89.66000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 56,
+    "price": "0.00151400",
+    "quantity": "8.21000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 57,
+    "price": "0.00151390",
+    "quantity": "36.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 58,
+    "price": "0.00151380",
+    "quantity": "268.40000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 59,
+    "price": "0.00151370",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 60,
+    "price": "0.00151360",
+    "quantity": "18.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 61,
+    "price": "0.00151350",
+    "quantity": "1.56000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 62,
+    "price": "0.00151340",
+    "quantity": "85.15000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 63,
+    "price": "0.00151330",
+    "quantity": "29.10000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 64,
+    "price": "0.00151320",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 65,
+    "price": "0.00151310",
+    "quantity": "42.51000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 66,
+    "price": "0.00151300",
+    "quantity": "817.31000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 67,
+    "price": "0.00151290",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 68,
+    "price": "0.00151280",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 69,
+    "price": "0.00151270",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 70,
+    "price": "0.00151260",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 71,
+    "price": "0.00151250",
+    "quantity": "31.97000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 72,
+    "price": "0.00151240",
+    "quantity": "5.33000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 73,
+    "price": "0.00151230",
+    "quantity": "14.99000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 74,
+    "price": "0.00151220",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 75,
+    "price": "0.00151210",
+    "quantity": "52.14000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 76,
+    "price": "0.00151200",
+    "quantity": "1.52000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 77,
+    "price": "0.00151190",
+    "quantity": "0.78000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 78,
+    "price": "0.00151180",
+    "quantity": "48.98000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 79,
+    "price": "0.00151170",
+    "quantity": "6.84000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 80,
+    "price": "0.00151160",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 81,
+    "price": "0.00151150",
+    "quantity": "1.60000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 82,
+    "price": "0.00151140",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 83,
+    "price": "0.00151130",
+    "quantity": "2.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 84,
+    "price": "0.00151120",
+    "quantity": "116.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 85,
+    "price": "0.00151110",
+    "quantity": "113.92000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 86,
+    "price": "0.00151100",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 87,
+    "price": "0.00151090",
+    "quantity": "210.72000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 88,
+    "price": "0.00151080",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 89,
+    "price": "0.00151070",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 90,
+    "price": "0.00151060",
+    "quantity": "0.70000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 91,
+    "price": "0.00151050",
+    "quantity": "2.76000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 92,
+    "price": "0.00151040",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 93,
+    "price": "0.00151030",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 94,
+    "price": "0.00151020",
+    "quantity": "357.17000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 95,
+    "price": "0.00151010",
+    "quantity": "19.79000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 96,
+    "price": "0.00151000",
+    "quantity": "149.33000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 97,
+    "price": "0.00150990",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 98,
+    "price": "0.00150980",
+    "quantity": "9.29000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 99,
+    "price": "0.00150970",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 100,
+    "price": "0.00150960",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 101,
+    "price": "0.00150950",
+    "quantity": "7.01000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 102,
+    "price": "0.00150940",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 103,
+    "price": "0.00150930",
+    "quantity": "13.38000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 104,
+    "price": "0.00150920",
+    "quantity": "43.72000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 105,
+    "price": "0.00150910",
+    "quantity": "663.64000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 106,
+    "price": "0.00150900",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 107,
+    "price": "0.00150890",
+    "quantity": "55.40000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 108,
+    "price": "0.00150880",
+    "quantity": "60.65000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 109,
+    "price": "0.00150870",
+    "quantity": "63.94000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 110,
+    "price": "0.00150860",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 111,
+    "price": "0.00150850",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 112,
+    "price": "0.00150840",
+    "quantity": "7.63000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 113,
+    "price": "0.00150830",
+    "quantity": "44.22000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 114,
+    "price": "0.00150800",
+    "quantity": "60.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 115,
+    "price": "0.00150790",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 116,
+    "price": "0.00150780",
+    "quantity": "679.21000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 117,
+    "price": "0.00150770",
+    "quantity": "34.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 118,
+    "price": "0.00150760",
+    "quantity": "0.94000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 119,
+    "price": "0.00150740",
+    "quantity": "5.96000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 120,
+    "price": "0.00150730",
+    "quantity": "2.32000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 121,
+    "price": "0.00150720",
+    "quantity": "4.05000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 122,
+    "price": "0.00150670",
+    "quantity": "16.33000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 123,
+    "price": "0.00150650",
+    "quantity": "3.78000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 124,
+    "price": "0.00150630",
+    "quantity": "43.47000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 125,
+    "price": "0.00150620",
+    "quantity": "6.63000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 126,
+    "price": "0.00150600",
+    "quantity": "2.99000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 127,
+    "price": "0.00150590",
+    "quantity": "9.43000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 128,
+    "price": "0.00150570",
+    "quantity": "12.68000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 129,
+    "price": "0.00150550",
+    "quantity": "53.81000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 130,
+    "price": "0.00150540",
+    "quantity": "56.30000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 131,
+    "price": "0.00150530",
+    "quantity": "1.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 132,
+    "price": "0.00150520",
+    "quantity": "5.65000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 133,
+    "price": "0.00150500",
+    "quantity": "9.42000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 134,
+    "price": "0.00150480",
+    "quantity": "1.24000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 135,
+    "price": "0.00150460",
+    "quantity": "57.95000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 136,
+    "price": "0.00150430",
+    "quantity": "5.90000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 137,
+    "price": "0.00150420",
+    "quantity": "23.61000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 138,
+    "price": "0.00150410",
+    "quantity": "200.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 139,
+    "price": "0.00150340",
+    "quantity": "1.13000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 140,
+    "price": "0.00150290",
+    "quantity": "3.76000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 141,
+    "price": "0.00150270",
+    "quantity": "2.86000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 142,
+    "price": "0.00150200",
+    "quantity": "3.32000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 143,
+    "price": "0.00150190",
+    "quantity": "54.63000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 144,
+    "price": "0.00150170",
+    "quantity": "34.55000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 145,
+    "price": "0.00150160",
+    "quantity": "42.86000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 146,
+    "price": "0.00150150",
+    "quantity": "23.93000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 147,
+    "price": "0.00150140",
+    "quantity": "6.78000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 148,
+    "price": "0.00150130",
+    "quantity": "1.68000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 149,
+    "price": "0.00150120",
+    "quantity": "0.96000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 150,
+    "price": "0.00150110",
+    "quantity": "738.66000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 151,
+    "price": "0.00150090",
+    "quantity": "49.71000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 152,
+    "price": "0.00150070",
+    "quantity": "2.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 153,
+    "price": "0.00150060",
+    "quantity": "21.50000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 154,
+    "price": "0.00150050",
+    "quantity": "412.99000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 155,
+    "price": "0.00150040",
+    "quantity": "3.76000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 156,
+    "price": "0.00150030",
+    "quantity": "272.49000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 157,
+    "price": "0.00150020",
+    "quantity": "4.79000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 158,
+    "price": "0.00150010",
+    "quantity": "420.09000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 159,
+    "price": "0.00150000",
+    "quantity": "1292.53000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 160,
+    "price": "0.00149990",
+    "quantity": "15.01000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 161,
+    "price": "0.00149940",
+    "quantity": "30.49000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 162,
+    "price": "0.00149920",
+    "quantity": "44.29000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 163,
+    "price": "0.00149910",
+    "quantity": "44.87000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 164,
+    "price": "0.00149900",
+    "quantity": "12.98000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 165,
+    "price": "0.00149870",
+    "quantity": "25.49000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 166,
+    "price": "0.00149850",
+    "quantity": "233.38000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 167,
+    "price": "0.00149810",
+    "quantity": "52.53000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 168,
+    "price": "0.00149800",
+    "quantity": "273.33000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 169,
+    "price": "0.00149720",
+    "quantity": "37.85000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 170,
+    "price": "0.00149710",
+    "quantity": "1.33000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 171,
+    "price": "0.00149660",
+    "quantity": "464.45000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 172,
+    "price": "0.00149650",
+    "quantity": "546.67000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 173,
+    "price": "0.00149600",
+    "quantity": "1137.10000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 174,
+    "price": "0.00149560",
+    "quantity": "3.34000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 175,
+    "price": "0.00149530",
+    "quantity": "1.40000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 176,
+    "price": "0.00149500",
+    "quantity": "1668.22000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 177,
+    "price": "0.00149400",
+    "quantity": "102.41000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 178,
+    "price": "0.00149390",
+    "quantity": "54.26000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 179,
+    "price": "0.00149350",
+    "quantity": "10.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 180,
+    "price": "0.00149050",
+    "quantity": "1075.21000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 181,
+    "price": "0.00148980",
+    "quantity": "68.12000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 182,
+    "price": "0.00147560",
+    "quantity": "6.78000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 183,
+    "price": "0.00147000",
+    "quantity": "886.91000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 184,
+    "price": "0.00146660",
+    "quantity": "48.35000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 185,
+    "price": "0.00146210",
+    "quantity": "34.19000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 186,
+    "price": "0.00145660",
+    "quantity": "18.27000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 187,
+    "price": "0.00145450",
+    "quantity": "46.62000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 188,
+    "price": "0.00142010",
+    "quantity": "145.83000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 189,
+    "price": "0.00140000",
+    "quantity": "4262.77000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  },
+  {
+    "depth": 190,
+    "price": "0.00138880",
+    "quantity": "10.00000000",
+    "side": "buy",
+    "exchange": "binance",
+    "quote": "BTC",
+    "base": "BNB"
+  }
+]
