@@ -3,7 +3,7 @@
 -e .
 pytest
 nose==1.3.7
-wheel==0.29.0
+wheel==0.38.1
 Flask==0.12.2
 pandas==0.20.1
 requests==2.18.4
